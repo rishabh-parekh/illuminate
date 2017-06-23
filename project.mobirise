@@ -1,0 +1,1161 @@
+{
+  "settings": {
+    "name": "Illuminate",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 57,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            "H1": {
+              "color": "#ffffff",
+              "font-size": "60px"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "header1-g",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-2000x1333.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "What is your story?",
+          "text": "<br>Everyone has a story to share. <br>Sometimes in society peoples voices are lost in the daily hustle.<br>We shine light &amp; empower these lost voices to speak.<br> Explore our street wear collection and &nbsp;purchase comfortable &amp; stylish clothing knowing that your purchases are donated back to your community.<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://goo.gl/forms/GhRLxnAPsfoVnIVk1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SHARE YOUR STORY</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"OurWork.html\" data-toolbar=\"-mbrBtnMove\">OUR WORK - MONTAGE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-h",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "font-size": "15px",
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-o",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1294.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "ABOUT US",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Nobody is the same. We are unique because of our different backgrounds, cultures, and experiences.&nbsp;</p><p>&nbsp;At Illuminate we strive to shine a light on the experiences of people in our community.</p><p> </p><p>We are a media - social entreprenurship non-profit.</p><p>Anyone wanting to share their story is invited to use our website-montage as a medium to do so.</p><p>We hope that these stories will inspire you to reach out to those deprived of their voice. </p><p>All funds raised by purchasing our clothes are donated to our host organizations.</p><p>Share your story.</p><p> Inspire others with your words.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {},
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-j",
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": ""
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-k",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "OUR WORK",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Take a look at our progress so far. Take a look at our goals and aspirations for the future.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"OurWork.html\" data-toolbar=\"-mbrBtnMove\">TAKE A LOOK</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#252525",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "HOST ORGANIZATIONS",
+          "text": "Every dollar we recieve is donated to our host organizations.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"Organizations.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE<br></a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#252525"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-11",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-12-2000x1333.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "STREET WEAR &amp; STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Explore our collections. Revenue from every purchase is donated to our host organization.&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"Streetwear.html\" data-toolbar=\"-mbrBtnMove\">START EXPLORING</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "social-buttons2-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "LETS CONNECT",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>     <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "LETS TALK",
+          "form": {
+            "action": "rishabh.parekh00@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-s",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#000000",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "quote",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-warning\" data-app-btn=\"true\" href=\"index.html#video2-j\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ILLUMINATE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#video2-j\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Organizations.html\">ORGANIZATIONS<br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-o\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"TeamPage.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-y\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "contacts1-z",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "quote",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true,
+              "color": "#ffffff"
+            }
+          },
+          "text1": "",
+          "text2": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>CONTACTS</strong><br>\nEmail: support@mobirise.com<br>\nPhone: 248-890-3022<br></p>",
+          "text3": ""
+        }
+      ]
+    },
+    "Organizations.html": {
+      "settings": {
+        "title": "Organizations",
+        "meta_descr": "Organizations descriptions\n",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-s",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#000000",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "quote",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-warning\" data-app-btn=\"true\" href=\"index.html#video2-j\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ILLUMINATE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#video2-j\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Organizations.html\">ORGANIZATIONS<br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-o\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"TeamPage.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-y\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-16",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
+              "text-align": "center"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-17",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "THE GREATER DETROIT AGENCY FOR BLIND &amp; VISUALLY IMPAIRED",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>\"Promoting independence through vision rehabilitation.\" &nbsp;</p><p>Established in 1961, the Greater Detroit Agency for the Blind and Visually Impaired is a non-profit dedicated to help blind and visually impaired people maintain confidence and self-confidence in their lives. They host a series of programs for people of all ages and from all regions. Many of these children come from inner city Detroit and do not have resources to help them pursure their dreams.</p><p>The pictures above are of our founder, Rishabh, volunteering with children from the Agency&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
+              "text-align": "center"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1k",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "THE COVENANT HOUSE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        }
+      ]
+    },
+    "TeamPage.html": {
+      "settings": {
+        "title": "Team Page",
+        "meta_descr": "Team Page"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1b",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "OUR TEAM",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://goo.gl/forms/bAL6raLPXqRWHRgI2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN OUR AWESOME TEAM!</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-18",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#000000",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "quote",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true,
+              "color": "#ffffff"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-warning\" data-app-btn=\"true\" href=\"index.html#video2-j\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ILLUMINATE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#video2-j\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Organizations.html\">ORGANIZATIONS<br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-o\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"TeamPage.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-y\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000",
+              "text-align": "center"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#252525",
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-19",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x935.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "center",
+          "title": "RISHABH PAREKH",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Founder &amp; Head Editor</p><p>@RishParekh7</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fou</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000",
+              "text-align": "center"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#252525",
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1c",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "center",
+          "title": "SHILPI SHAH",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Head Editor</p><p>@Shshah2018</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fou</a>"
+        }
+      ]
+    },
+    "OurWork.html": {
+      "settings": {
+        "title": "Website Builder Title",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1j",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "OUR WORK",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Explore the previous stories we have published. Our hope is that you are inspired by these people and their work. After reading these stories we encourage you to reach out to organizations in your community and help them use their voice.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1h",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#000000",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "quote",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true,
+              "color": "#ffffff"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-warning\" data-app-btn=\"true\" href=\"index.html#video2-j\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ILLUMINATE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#video2-j\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Organizations.html\">ORGANIZATIONS<br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-o\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"TeamPage.html\">TEAM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-y\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide1-small.jpg",
+                "image": "images/slide1.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide2-small.jpg",
+                "image": "images/slide2.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide3-small.jpg",
+                "image": "images/slide3.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide4-small.jpg",
+                "image": "images/slide4.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide5-small.jpg",
+                "image": "images/slide5.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide6-small.jpg",
+                "image": "images/slide6.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg"
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg"
+              }
+            ],
+            "showText": false,
+            "fullWidth": true,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1i",
+          "articleLayout": true
+        }
+      ]
+    }
+  }
+}

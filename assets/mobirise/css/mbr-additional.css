@@ -1,0 +1,215 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+#header1-g P {
+  font-size: 14px;
+  text-align: center;
+  color: #ffffff;
+}
+#header1-g H1 {
+  color: #ffffff;
+  font-size: 60px;
+}
+#header1-g .btn {
+  font-size: 14px;
+}
+#content5-o .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+}
+#content5-o .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-o .mbr-article {
+  color: #fff;
+}
+#content5-o .mbr-article P {
+  text-align: center;
+  font-size: 15px;
+  color: #000000;
+}
+#msg-box3-k .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+}
+#msg-box3-k .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-k .mbr-article {
+  text-align: center;
+  color: #ffffff;
+}
+#msg-box1-m .mbr-header .mbr-header__text {
+  color: #252525;
+  text-align: center;
+}
+#msg-box1-m .mbr-article {
+  color: #252525;
+  text-align: center;
+}
+#msg-box3-11 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #252525;
+}
+#msg-box3-11 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-11 .mbr-article {
+  color: #252525;
+}
+#social-buttons2-n .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+}
+#menu-s .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-s.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-s .mbr-navbar__section {
+  background: #000000;
+}
+#menu-s .mbr-navbar__hamburger {
+  color: #000000;
+}
+#menu-s .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 17px;
+}
+#contacts1-z P {
+  color: #ffffff;
+  text-align: right;
+}
+
+#menu-s .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-s.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-s .mbr-navbar__section {
+  background: #000000;
+}
+#menu-s .mbr-navbar__hamburger {
+  color: #000000;
+}
+#menu-s .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 17px;
+}
+#content5-17 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+}
+#content5-17 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-17 .mbr-article {
+  color: #000000;
+}
+#content5-17 .mbr-article P {
+  color: #000000;
+  text-align: center;
+}
+#content5-17 .mbr-article BLOCKQUOTE {
+  text-align: center;
+}
+#content5-1k .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+}
+#content5-1k .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1k .mbr-article {
+  color: #000000;
+}
+#content5-1k .mbr-article P {
+  color: #000000;
+  text-align: center;
+}
+#content5-1k .mbr-article BLOCKQUOTE {
+  text-align: center;
+}
+
+#msg-box2-1b .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-1b .mbr-article {
+  color: #252525;
+}
+#menu-18 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-18.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-18 .mbr-navbar__section {
+  background: #000000;
+}
+#menu-18 .mbr-navbar__hamburger {
+  color: #000000;
+}
+#menu-18 .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 17px;
+}
+#msg-box4-19 .mbr-header__text {
+  color: #000000;
+  text-align: center;
+}
+#msg-box4-19 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-19 .mbr-article {
+  color: #252525;
+  text-align: center;
+}
+#msg-box4-19 .mbr-article P {
+  color: #000000;
+}
+#msg-box4-1c .mbr-header__text {
+  color: #000000;
+  text-align: center;
+}
+#msg-box4-1c .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1c .mbr-article {
+  color: #252525;
+  text-align: center;
+}
+#msg-box4-1c .mbr-article P {
+  color: #000000;
+}
+
+#content5-1j .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-1j .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1j .mbr-article {
+  color: #fff;
+}
+#menu-1h .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1h.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-1h .mbr-navbar__section {
+  background: #000000;
+}
+#menu-1h .mbr-navbar__hamburger {
+  color: #000000;
+}
+#menu-1h .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 17px;
+}
